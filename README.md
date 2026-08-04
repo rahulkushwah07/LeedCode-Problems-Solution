@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rahulkushwah07/LeedCode-Problems-Solution/tree/master/0001-two-sum) |
 | [1920-build-array-from-permutation](https://github.com/rahulkushwah07/LeedCode-Problems-Solution/tree/master/1920-build-array-from-permutation) |
 ## Simulation
 |  |
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/rahulkushwah07/LeedCode-Problems-Solution/tree/master/2396-strictly-palindromic-number) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/rahulkushwah07/LeedCode-Problems-Solution/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
