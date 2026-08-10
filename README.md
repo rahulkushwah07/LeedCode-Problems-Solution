@@ -52,4 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/rahulkushwah07/LeedCode-Problems-Solution/tree/master/2011-final-value-of-variable-after-performing-operations) |
+## Binary Search
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/rahulkushwah07/LeedCode-Problems-Solution/tree/master/0374-guess-number-higher-or-lower) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/rahulkushwah07/LeedCode-Problems-Solution/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
