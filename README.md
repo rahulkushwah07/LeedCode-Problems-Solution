@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/rahulkushwah07/LeedCode-Problems-Solution/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rahulkushwah07/LeedCode-Problems-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rahulkushwah07/LeedCode-Problems-Solution/tree/master/0027-remove-element) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/rahulkushwah07/LeedCode-Problems-Solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1920-build-array-from-permutation](https://github.com/rahulkushwah07/LeedCode-Problems-Solution/tree/master/1920-build-array-from-permutation) |
 ## Simulation
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rahulkushwah07/LeedCode-Problems-Solution/tree/master/0002-add-two-numbers) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/rahulkushwah07/LeedCode-Problems-Solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2396-strictly-palindromic-number](https://github.com/rahulkushwah07/LeedCode-Problems-Solution/tree/master/2396-strictly-palindromic-number) |
 ## Recursion
 |  |
